@@ -1,4 +1,4 @@
-#Introduction
+###Introduction
 
 The purpose of this project is to detect the defects of circuit boards.
 
