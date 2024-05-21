@@ -1,11 +1,11 @@
-###Introduction
+### Introduction
 
 The purpose of this project is to detect the defects of circuit boards.
 
-#Dataset
+### Dataset
 Circuit dataset was used for the Circuit defects detection project. Dataset containing 1386 images with 6 kinds of defects (missing hole, mouse bite, open circuit, short, spur, spurious copper) for the use of detection, classification and registration tasks.
 
-Preprocessing
+### Preprocessing
 
 The preprocessing steps of the proposed project are following:
 
@@ -23,12 +23,12 @@ The preprocessing steps of the proposed project are following:
 
 - Unclassified (Any defect does not belong to above classes)
 
-Model Training
+### Model Training
 For the Circuit defects Detection, Yolo V5 model was trained with the annotated images. The details of the model training are following:
 
 - Use 1386 Images
 
-Results
+### Results
 - Used 300 Samples for Evaluation
 
 - Calculation of Mean Average Precision
