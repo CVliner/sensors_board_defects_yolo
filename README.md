@@ -1,8 +1,8 @@
-Introduction
+#Introduction
 
 The purpose of this project is to detect the defects of circuit boards.
 
-Dataset
+#Dataset
 Circuit dataset was used for the Circuit defects detection project. Dataset containing 1386 images with 6 kinds of defects (missing hole, mouse bite, open circuit, short, spur, spurious copper) for the use of detection, classification and registration tasks.
 
 Preprocessing
