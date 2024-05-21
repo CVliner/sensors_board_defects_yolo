@@ -26,7 +26,7 @@ The preprocessing steps of the proposed project are following:
 ### Model Training
 For the Circuit defects Detection, Yolo V5 model was trained with the annotated images. The details of the model training are following:
 
-- Use 1386 Images
+- Use 1500 Images
 
 ### Results
 - Used 300 Samples for Evaluation
