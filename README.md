@@ -35,5 +35,4 @@ For the Circuit defects Detection, Yolo V5 model was trained with the annotated 
 
 - Got 0.7 Mean Average Precision of all classes
 
-Dataset
-Access to the Prepared Dataset find here  (google drive link )
+
