@@ -75,7 +75,6 @@ import os
 
 # Directory name you want to create
 directory_name = "model_folder"
-# Path to the directory in /kaggle/working/
 directory_path = "/mze/working/" + directory_name
 
 # Create the directory
