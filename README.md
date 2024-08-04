@@ -24,7 +24,7 @@ The preprocessing steps of the proposed project are following:
 - Unclassified (Any defect does not belong to above classes)
 
 ### Model Training
-For the Circuit defects Detection, Yolo V5 model was trained with the annotated images. The details of the model training are following:
+For the Circuit defects Detection, Yolo V5 and DenseNet model was trained with the annotated images. The details of the model training are following:
 
 - Use 1500 Images
 
