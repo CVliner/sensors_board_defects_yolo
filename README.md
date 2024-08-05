@@ -1,9 +1,9 @@
 ### Introduction
 
-The purpose of this project is to detect the defects of new circuit boards, before they delivered to customer.
+The purpose of this project is to detect the defects of new circuit boards at manufacturing, before they delivered to customer.
 
 ### Dataset
-Circuit dataset was used for the Circuit defects detection project. Dataset containing 1500 images with 6 kinds of defects (missing hole, mouse bite, open circuit, short, spur, spurious copper) for the use of detection, classification and registration tasks.
+Circuit dataset was used for the Circuit Defects Detection project. Dataset containing 1500 images with 6 kinds of defects (missing hole, mouse bite, open circuit, short, spur, spurious copper) for the use of detection, classification and registration tasks.
 
 ### Preprocessing
 
@@ -24,7 +24,7 @@ The preprocessing steps of the proposed project are following:
 - Unclassified (Any defect does not belong to above classes)
 
 ### Model Training
-For the Circuit defects Detection, Yolo V5 and DenseNet model was trained with the annotated images. The details of the model training are following:
+For the Circuit Defects Detection, Yolo Vers.5 and DenseNet(Conv2D) model was trained with the annotated images. The details of the model training are following:
 
 - Use 1500 Images
 
@@ -33,6 +33,6 @@ For the Circuit defects Detection, Yolo V5 and DenseNet model was trained with t
 
 - Calculation of Mean Average Precision
 
-- Got 0.7 Mean Average Precision of all classes
+- Got 0.7-0.8 Mean Average Precision of all classes
 
 
