@@ -68,7 +68,6 @@ for data_source_mapping in DATA_SOURCE_MAPPING.split(','):
 
 print('Data source import complete.')
 
-#Creating needed folders in kaggle
 #three folders are needed in working environment: model_folder,result,processed_data
 ################################################################################################
 import os
