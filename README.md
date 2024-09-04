@@ -1,4 +1,4 @@
-### Introduction
+### Detection of Circuit Defects in Electrical Plates
 
 The purpose of this project is to detect the defects of new circuit boards at manufacturing, before they delivered to customer.
 
